@@ -79,3 +79,4 @@ return "Titulo del libro: " + Titulo + "\n" + "Autor: "+ Autor +  "\n" +
         "Ejemplares:" + NumEjemplares +  "\n" + "Ejemplares Prestados:" + NumEjemplaresP;
     }
 }
+* Agrego este comentario.*/
