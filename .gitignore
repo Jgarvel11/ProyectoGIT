@@ -1,8 +1,3 @@
 #a comment -esto se ignora
-*.a		#no .a ficheros
-!lib.a 		# pero prepara lib.a, aunque se haya pedido ignorar ficheros.a
-*.[oa]		#ignora ficheros con extension .o y .a
-*~ 		#ignora ficheros temporales que terminal en ~
-/TODO 		#ignora solo el fichero TODO
-build/		#ignora todos los ficheros en el directorio build/
-doc/*.txt	#ignora doc/notes.txt, pero no doc/server/arch.txt
+*.class		#no .class ficheros
+*.conf 		#no .conf ficheros
